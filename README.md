@@ -1,5 +1,7 @@
 # Temperature Rise Forecasting
 
+![image](https://github.com/user-attachments/assets/4dd23137-815e-4f0b-8748-6286e0bd79a7)
+
 This project is an implementation of the analysis and modeling pipeline for the competitive data science project conducted as part of the **Datavidia 2025** competition, specifically titled **"Prediksi Peningkatan Suhu - Warm Up Datavidia 9"**
 
 Forecasting temperature rise using machine learning regression models. This project aims to predict future temperature changes based on historical emissions and climate-related variables.
